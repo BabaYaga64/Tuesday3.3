@@ -1,10 +1,11 @@
-Car Application
-Bojana Skarich and Kelly de Vries 
-March 3rd, 2015
-Description
+#Car Application
+##Bojana Skarich and Kelly de Vries 
+###March 3rd, 2015
+###Description
 
 This application allows users to search for and display a list of cars based on properties such as model, mileage and price. It utilizes Object-Oriented PHP methods and private properties. This app is displayed in the Silex framework, used with the Composer dependency.
-Technologies Used
+
+###Technologies Used
 
 PHP HTML5 MAMP (or other PHP server) Silex Composer
 Setup Instructions
@@ -14,7 +15,7 @@ Setup Instructions
 3. Point browser to localhost:8000/file.html.
 4. Once page is loaded, make selections of cars based on properties.
 
-The MIT License (MIT)
+###The MIT License (MIT)
 
 Copyright (c) 2015 Bojana Skarich and Kelly de Vries
 
